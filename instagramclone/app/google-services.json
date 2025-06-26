@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782130804236",
+    "project_id": "kotlininstaclone-b190b",
+    "storage_bucket": "kotlininstaclone-b190b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782130804236:android:7cbacccbaed83fb0ef2029",
+        "android_client_info": {
+          "package_name": "com.ahmetbadem.kotlininstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAAoCURMfbC3TES4sIeOIwJJspv5-Mvks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
